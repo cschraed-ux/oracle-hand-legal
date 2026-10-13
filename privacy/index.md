@@ -6,7 +6,7 @@ title: Oracle Hand Privacy Policy
 
 **Effective date:** October 13, 2026
 **Company:** PSU Pro LLC ("we", "us", "our")
-**Contact:** [CONTACT EMAIL]
+**Contact:** support@psupro.com
 
 This policy explains what information Oracle Hand (the "App") uses, where it goes, and the choices you have. We wrote it in plain language. The short version: your profile stays on your phone, palm photos are used only to make your reading, your crystal-ball questions and dream searches are never sent anywhere, we do not run ads, and we do not use analytics or tracking tools.
 
@@ -73,7 +73,7 @@ Data in transit to our cloud function is encrypted (HTTPS). Because your profile
 
 ## 9. Your rights
 
-Depending on where you live (for example the EU, the UK, California and other US states), you may have the right to know what we hold about you, to access it, correct it, delete it, or object to how it is used. Almost everything the App uses is on your own device, where you can see and delete it yourself. For anything else, including questions about data sent to our cloud function, email us at [CONTACT EMAIL] and we will respond within 30 days.
+Depending on where you live (for example the EU, the UK, California and other US states), you may have the right to know what we hold about you, to access it, correct it, delete it, or object to how it is used. Almost everything the App uses is on your own device, where you can see and delete it yourself. For anything else, including questions about data sent to our cloud function, email us at support@psupro.com and we will respond within 30 days.
 
 If you are in the EEA or UK, our legal basis for processing a palm photo you send for a reading is performing the service you asked for (and your consent when you choose to send the photo). You can withdraw consent at any time by not using the AI reading. You may also complain to your local data protection authority.
 
@@ -88,5 +88,5 @@ We may update this policy. The new version will carry a new effective date and, 
 ## 12. Contact
 
 PSU Pro LLC
-[CONTACT EMAIL]
+support@psupro.com
 [POSTAL ADDRESS, if you want to list one]

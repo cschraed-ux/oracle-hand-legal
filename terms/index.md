@@ -6,7 +6,7 @@ title: Oracle Hand Terms of Use
 
 **Effective date:** October 13, 2026
 **Company:** PSU Pro LLC ("we", "us", "our")
-**Contact:** [CONTACT EMAIL]
+**Contact:** support@psupro.com
 
 By downloading or using Oracle Hand (the "App") you agree to these terms. If you do not agree, please do not use the App.
 
@@ -68,9 +68,9 @@ If you downloaded the App from the Apple App Store: these terms are between you 
 
 ## 13. Governing law
 
-These terms are governed by the laws of [STATE / COUNTRY], without regard to conflict-of-law rules, and courts in [COUNTY / CITY, STATE] have jurisdiction, except where consumer protection laws where you live give you other rights.
+These terms are governed by the laws of the State of Florida, United States, without regard to conflict-of-law rules, and courts in Hillsborough County, Florida have jurisdiction, except where consumer protection laws where you live give you other rights.
 
 ## 14. Contact
 
 PSU Pro LLC
-[CONTACT EMAIL]
+support@psupro.com
